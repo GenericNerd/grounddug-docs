@@ -8,6 +8,7 @@
 * [Getting started with GroundDug](documentation/getting-started-with-grounddug.md)
 * [Bot commands list](documentation/bot-commands-list.md)
 * [Discord references](documentation/discord-references.md)
+* [Bot levels](documentation/bot-levels.md)
 
 ## Future plans and ideas
 
