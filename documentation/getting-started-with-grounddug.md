@@ -14,7 +14,7 @@ Firstly, click [this link](https://discordapp.com/oauth2/authorize?client_id=553
 
 ![Make sure you have selected the right server and the Administrator permission is ticked before authorizing.](../.gitbook/assets/chrome_4oxloxrt4x.png)
 
-### Move the bot role higher in the hierarchy
+### Move the bot role higher in the hierarchy (Role List)
 
 In order for the bot to have permissions to act on most users, you will need to move it higher in the hierarchy list. Go to your server and open the server settings. Under the role section, click the GroundDug role and move it to the top of the list.
 
